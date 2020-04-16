@@ -1,5 +1,6 @@
-# A Mystery in Two Parts
+# SQL Homework - Employee Database: A Mystery in Two Parts
 
+## Suraj Thyagaraj
 
 ## Background
 
@@ -15,8 +16,6 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
 ### Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
-
-![](Images/Entity%20Relationship%20Diagram%20(ERD).png)
 
 ### Data Engineering
 * Use the information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
